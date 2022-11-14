@@ -1,0 +1,1 @@
+# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
