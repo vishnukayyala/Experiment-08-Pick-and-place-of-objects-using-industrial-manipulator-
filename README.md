@@ -68,8 +68,7 @@ Installation position: floor, ceiling, walls.
 
 
 
-
-            ![download](https://user-images.githubusercontent.com/36288975/201620052-1a9de634-b2d1-4517-8904-5d55912c708c.jpg)
+![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
 
