@@ -36,10 +36,10 @@ Gripping & drop detection
 Force & position adjustment
 Self-locking
 
-![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+                  ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
 ### Figure -01 DH gripper with two finger gripper 
 
-Specifications
+#### Specifications
 
 Opening stroke	95mm
 Gripping force 	45-160N
@@ -55,7 +55,7 @@ Current	≤1.5A
 ### Doosan M1013 industrial collaborative robot manipulator 
 Doosan Robotics designs collaborative robots for all types of operators, from engineers to teachers to designers of industrial robotics solutions. There are currently 4 robotic arms in the range, including this M1013 ROS robotic arm. With 6 degrees of freedom and a total reach of 1,300 mm, the Doosan M1013 Robotic Arm offers the speed and precision of execution necessary for all types of automated operation.
 
-specifications 
+#### specifications 
 Technical specifications of the Doosan Robotics M1013 arm:
 Degrees of freedom: 6.
 Payload: 10 kg.
@@ -69,7 +69,7 @@ Installation position: floor, ceiling, walls.
 
 
 
-![download](https://user-images.githubusercontent.com/36288975/201620052-1a9de634-b2d1-4517-8904-5d55912c708c.jpg)
+            ![download](https://user-images.githubusercontent.com/36288975/201620052-1a9de634-b2d1-4517-8904-5d55912c708c.jpg)
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
 
