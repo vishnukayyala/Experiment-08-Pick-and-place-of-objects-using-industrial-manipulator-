@@ -1,5 +1,11 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
+name : vishnu km
+
+roll no : 212223240185
+
+department : AI/ML
+
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
@@ -80,36 +86,20 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 
 3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2024-04-22 at 13 36 21_46518783](https://github.com/SamyukthaSreenivasan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/bea5b1ed-1eb0-4538-af25-74d325c1ca5f)
 
 ### output video and screen shots of pick and place 
+![WhatsApp Image 2024-04-22 at 13 36 16_fc55d357](https://github.com/SamyukthaSreenivasan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/b99217ab-940f-4335-9b2c-5f0f21996550)
 
+![WhatsApp Image 2024-04-22 at 13 36 17_ede7200b](https://github.com/SamyukthaSreenivasan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/f79eb5a0-3531-4c4b-ba98-11d699c172ed)
 
+![WhatsApp Image 2024-04-22 at 13 36 17_f122a9a9](https://github.com/SamyukthaSreenivasan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/951b8981-e7a9-426c-b660-805772af531a)
 
+![WhatsApp Image 2024-04-22 at 13 36 18_94b1b6a6](https://github.com/SamyukthaSreenivasan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/f35afc9b-c647-4997-9339-881d5eb42b43)
 
+![WhatsApp Image 2024-04-22 at 13 36 19_0161ab67](https://github.com/SamyukthaSreenivasan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/073df862-9208-4fe9-86df-8fe8598ccdc9)
 
-
+![WhatsApp Image 2024-04-22 at 13 36 19_18fc8cec](https://github.com/SamyukthaSreenivasan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/606f20ce-8233-4fbb-a7cb-c269eac75152)
 
 ### Results: 
-
-
-
-
-
-
+Thus to pick and place a regular shape using two finger gripper on the conveyor belt
